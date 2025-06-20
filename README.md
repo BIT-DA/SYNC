@@ -8,7 +8,7 @@
 
 [Zhuo He](https://scholar.google.com/citations?user=425tWzMAAAAJ&hl=en), [Shuang Li](https://shuangli.xyz), Wenze Song, [Jian Liang](https://scholar.google.com/citations?user=mrunnpoAAAAJ&hl=zh-CN), [Han Li](https://scholar.google.com/citations?user=IJGli9AAAAAJ&hl=en), [Kun Gai](https://scholar.google.com/citations?user=PXO4ygEAAAAJ) 
 
-![framework](figures\framework.png)
+![framework](figures/framework.png)
 
 ## Contributions
 
