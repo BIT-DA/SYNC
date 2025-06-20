@@ -1,6 +1,6 @@
 -------
 
-<div align="center">    
+<div align="left">    
 
 # Learning Time-Aware Causal Representation for Model Generalization in Evolving Domains
 
