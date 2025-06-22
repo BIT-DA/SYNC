@@ -14,7 +14,7 @@
 
 ## Contributions
 
-- By taking a novel causal perspective towards EDG problem, we design a time-aware SCM that enables the refined modeling of both dynamic causal factors and causal mechanism drifts. After that, we propose **S**tatic-**DY**namic **C**ausal Representation Learning (**SYNC**), an approach for effectively learning time-aware causal representations, thereby mitigating spurious correlations.
+- By taking a novel causal perspective towards EDG problem, we design a time-aware SCM that enables the refined modeling of both dynamic causal factors and causal mechanism drifts. After that, we propose **S**tatic-**D**y**N**amic **C**ausal Representation Learning (**SYNC**), an approach for effectively learning time-aware causal representations, thereby mitigating spurious correlations.
 - Theoretically, we show that SYNC can build the optimal causal predictor for each time domain, resulting in improved model generalization.
 - Results on both synthetic and real-world datasets, along with extensive analytic experiments demonstrate the effectiveness of proposed approach.
 
