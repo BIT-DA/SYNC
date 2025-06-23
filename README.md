@@ -56,6 +56,9 @@ bash scripts/train_portraits_sync.sh
 # running for Caltran dataset:
 bash scripts/train_caltran_sync.sh
 
+# running for PowerSupply dataset:
+bash scripts/train_power_sync.sh
+
 # running for ONP dataset:
 bash scripts/train_onp_sync.sh
 ```
