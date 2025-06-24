@@ -18,7 +18,7 @@ from engine.utils.general import increment_path, Pool
 
 sys.dont_write_bytecode = True
 ImageFile.LOAD_TRUNCATED_IMAGES = True
-from torch.utils.tensorboard import SummaryWriter
+# from torch.utils.tensorboard import SummaryWriter
 
 
 class Trainer(object):
