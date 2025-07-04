@@ -6,7 +6,7 @@
 
 [ICML 2025] Official Code of **SYNC** 
 
-[Zhuo He](https://scholar.google.com/citations?user=425tWzMAAAAJ&hl=en), [Shuang Li](https://shuangli.xyz), [Wenze Song](https://openreview.net/profile?id=~Wenze_Song1), [Jian Liang](https://scholar.google.com/citations?user=mrunnpoAAAAJ&hl=zh-CN), [Han Li](https://scholar.google.com/citations?user=IJGli9AAAAAJ&hl=en), [Kun Gai](https://scholar.google.com/citations?user=PXO4ygEAAAAJ) 
+[Zhuo He](https://scholar.google.com/citations?user=425tWzMAAAAJ&hl=en), [Shuang Li](https://shuangli.xyz), [Wenze Song](https://openreview.net/profile?id=~Wenze_Song1), [Longhui Yuan](https://scholar.google.com/citations?user=fVnEIZEAAAAJ&hl=zh-CN), [Jian Liang](https://scholar.google.com/citations?user=mrunnpoAAAAJ&hl=zh-CN), [Han Li](https://scholar.google.com/citations?user=IJGli9AAAAAJ&hl=en), [Kun Gai](https://scholar.google.com/citations?user=PXO4ygEAAAAJ) 
 
 [![openreview](https://img.shields.io/badge/Paper-openreview-%23B31B1B?style=flat-square)](https://openreview.net/forum?id=KhCKypSaqx) &nbsp;&nbsp;
 [![Poster](https://img.shields.io/badge/Poster-Dropbox-%23B31B1B?logo=dropbox&style=flat-square)](https://icml.cc/media/PosterPDFs/ICML%202025/45628.png?t=1751534496.7289999) &nbsp;&nbsp;
